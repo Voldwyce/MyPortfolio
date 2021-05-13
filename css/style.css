@@ -66,7 +66,6 @@
 body {
     background: url(../img/a2.webp);
     background-position: center
-    overflow: hidden;
 }
 section {
     position: relative;
@@ -201,6 +200,6 @@ header li a:hover {
 .lang {
     position: absolute;
     left: 0.5%;
-    top: 97%;
+    top: 96%;
     padding: 0px;
 }
