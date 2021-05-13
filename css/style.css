@@ -66,6 +66,7 @@
 body {
     background: url(../img/a2.webp);
     background-position: center
+    overflow: hidden;
 }
 section {
     position: relative;
